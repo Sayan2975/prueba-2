@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -39,7 +39,7 @@
 <p>¡Por esos ojitos dormilones, que aun me siguen 
 <p>gustando, aun que talvez elloos ya no quieran saber de mi........!!!!!.
                             <p>🤍💚
-                                <p>🩷
+                             <p>🩷
 
     
     <img class="imagen" src="WhatsApp Image 2025-06-22 at 10.13.19 PM.jpeg" alt="Imagen bonita">
