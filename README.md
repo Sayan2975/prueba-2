@@ -42,7 +42,7 @@
                              <p>🩷
 
     
-    <img class="imagen" src="WhatsApp Image 2025-06-22 at 10.13.19 PM.jpeg" alt="Imagen bonita">
+    <p><img class="imagen" src="WhatsApp Image 2025-06-22 at 10.13.19 PM.jpeg" alt="Imagen bonita">
 
                          <div class="emoji">🥹</div>
 
